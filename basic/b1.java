@@ -1,5 +1,5 @@
+// Count Digits
 import java.util.Scanner;
-
 class b1{
     public static void main(String[] args) {
         int n,count=0;
