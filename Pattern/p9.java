@@ -1,4 +1,3 @@
-import java.util.Scanner;
 //     *    
 //    ***   
 //   *****  
@@ -9,9 +8,9 @@ import java.util.Scanner;
 //   *****
 //    ***
 //     *
+import java.util.Scanner;
 public class p9 {
-    public static void main(String[] args) {
-        
+    public static void main(String[] args) {  
         int n;
         Scanner in=new Scanner(System.in);
         System.out.print("enter anyu no :");
