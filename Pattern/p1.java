@@ -4,7 +4,7 @@
 // *****
 // *****
 import java.util.Scanner;
-public class pi {
+public class p1 {
 public static void main(String[]args){
                 int n;
                 Scanner in=new Scanner(System.in);
