@@ -1,4 +1,4 @@
-//  Count frequency of each element int the array
+//  Count frequency of each element in the array
  class h1 {
     public static void main(String[]args){
         int[] a={10,5,10,15,10,5};
